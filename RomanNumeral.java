@@ -16,6 +16,7 @@ public class RomanNumeral {
         map.put('C', 100);
         map.put('D', 500);
         map.put('M', 1000);
+        map.put('Z', -1);
     } //This block initializes the map with mappings of Roman numerals to their integer values. For example, 'I' is mapped to 1, 'V' to 5, and so on.
 
     public static void main(String[] args) { //defines the main method, the entry point of the program.
