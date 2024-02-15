@@ -36,13 +36,14 @@ public class TestRomanNumeral {
 
         //Test case for Repetition
         Assert.assertEquals(2, romanNumeral.romanToInt("II"));
+        Assert.assertEquals(3, romanNumeral.romanToInt("III"));
 
         //Test case for First Number
         Assert.assertEquals(1, romanNumeral.romanToInt("I"));
 
         //Test case for Invalid Letter
-        Assert.assertEquals(-1, romanNumeral.romanToInt("Z"));
-
+        Assert.assertEquals(-1, romanNumeral.romanToInt("Z")); //Errors here 
+        
         //Test case for 
 
 
