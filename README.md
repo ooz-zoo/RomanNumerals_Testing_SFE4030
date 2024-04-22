@@ -1,6 +1,6 @@
 # Roman Numerals Testing
 
-# Open the TestRomanNumerals file to view the test cases
+# Open the TestRomanNumeral file to view the test cases
 
 #Test Case results
 
